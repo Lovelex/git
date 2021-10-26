@@ -1,1 +1,2 @@
-Segundo arquivo.
+Mudança na linha 1 do arquivo a2
+Adição de texto na linha 2 do arauivo a2
